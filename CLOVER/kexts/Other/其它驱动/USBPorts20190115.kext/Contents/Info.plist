@@ -133,7 +133,7 @@
 					<key>SS02</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						EgAAAA==
@@ -142,7 +142,7 @@
 					<key>SS03</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						EwAAAA==
@@ -160,7 +160,7 @@
 					<key>SS05</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						FQAAAA==
