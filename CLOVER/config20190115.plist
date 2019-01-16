@@ -198,6 +198,8 @@
 					</data>
 				</dict>
 			</array>
+			<key>SlpSmiAtWake</key>
+			<false/>
 		</dict>
 		<key>DropTables</key>
 		<array>
@@ -236,7 +238,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>igfxcflbklt=force</string>
+		<string>darkwake=0 igfxcflbklt=force</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
@@ -776,7 +778,7 @@
 				<key>Comment</key>
 				<string>10.13.x USB Port Limit Patch</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g32UDw+DlwQAAA==
@@ -796,7 +798,7 @@
 				<key>Comment</key>
 				<string>USB Port limit patch 10.14 (credits FredWst)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g/sPD4MDBQAA
@@ -816,7 +818,7 @@
 				<key>Comment</key>
 				<string>USB Port limit patch 10.14.1 18B50C (credits DalianSky)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g/sPD4OPBAAA
