@@ -1,4 +1,4 @@
-## progress: [PROGRESS](https://github.com/bykaii/NOTE/issues/28)
+## [Progress](https://github.com/bykaii/NOTE/issues/28)
 ## Device
 ```
 - Processor: i7-8750H
@@ -26,7 +26,7 @@ Misc:
 - EFI based
 
 ## How to use this repository:
-- Root folder has the version of Hackintosh (e.g. 10.14.2 - Mojave)
+- Root folder has the version of Hackintosh (10.14.2 or later - Mojave. Now is 10.14.3)
 
 Then, inside each folder:
 - EFI/CLOVER: Clover EFI files (with kexts, configs, patches, etc.)
