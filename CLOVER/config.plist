@@ -240,7 +240,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>igfxcflbklt=1</string>
+		<string>-cflbkltfix igfxcflbklt=1 applbkl=0</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
