@@ -1,4 +1,4 @@
-## [Progress](https://github.com/bykaii/NOTE/issues/28)
+## [Progress](https://github.com/bykaii/NOTE/issues/28) Language is Chinese.
 ## Device
 ```
 - Processor: i7-8750H
