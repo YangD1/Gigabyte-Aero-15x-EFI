@@ -1,0 +1,42 @@
+
+Clover EFI installer log - Tue Apr  2 10:52:03 CST 2019
+Installer version: v2.4k r4910 EFI bootloader
+======================================================
+/dev/disk0 (internal):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                         512.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk2         511.9 GB   disk0s2
+
+/dev/disk1 (internal):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                         512.1 GB   disk1
+   1:       Microsoft Basic Data                         512.0 GB   disk1s1
+   2:                        EFI NO NAME                 104.9 MB   disk1s2
+
+/dev/disk2 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +511.9 GB   disk2
+                                 Physical Store disk0s2
+   1:                APFS Volume MacOS                   65.3 GB    disk2s1
+   2:                APFS Volume Preboot                 45.1 MB    disk2s2
+   3:                APFS Volume Recovery                522.7 MB   disk2s3
+   4:                APFS Volume VM                      1.1 GB     disk2s4
+
+Target volume /Volumes/MacOS on disk2 is APFS on physical store disk0s2
+======================================================
+Backing up EFI files
+
+Backing up stage2 file /Volumes/MacOS/EFIROOTDIR/boot  to /Volumes/MacOS/EFI-Backups/r4910/2019-04-02-10h52/boot
+Backing up /Volumes/MacOS/EFIROOTDIR/EFI folder to /Volumes/MacOS/EFI-Backups/r4910/2019-04-02-10h52/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+
+Removing drivers64UEFI/VBoxHfs-64.efi driver because HFSPlus driver present
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
