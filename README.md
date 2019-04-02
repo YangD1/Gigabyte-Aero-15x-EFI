@@ -26,7 +26,7 @@ Misc:
 - EFI based
 
 ## How to use this repository:
-- Root folder has the version of Hackintosh (10.14.2 or later - Mojave. Now is 10.14.3)
+- Root folder has the version of Hackintosh (10.14.2 or later - Mojave. Now is 10.14.4)
 
 Then, inside each folder:
 - EFI/CLOVER: Clover EFI files (with kexts, configs, patches, etc.)
