@@ -1,5 +1,5 @@
 ## [Progress](https://github.com/bykaii/NOTE/issues/28) Language is Chinese.
-> Note: This is a backup configuration for me, please do not use it directly.This is a dual system configuration, please delete unwanted files as needed, such as `Microsoft`.
+> Notice: This is a backup configuration for me, please do not use it directly.This is a dual system configuration, please delete unwanted files as needed, such as `Microsoft`.
 ## Device
 ```
 - Processor: i7-8750H
